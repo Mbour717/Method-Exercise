@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Scan {
 	
+	// Testing Phase1
 	int userInput() {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Type a number between 50 and 300");

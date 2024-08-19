@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scan getUser = new Scan();
 		
+		// Testing Phase1
 		getUser.userInput();
 		
 		if (getUser.userInput() >= 50 || getUser.userInput() <= 300) {
